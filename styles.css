@@ -1,2 +1,12 @@
 
 /* Your CSS Code here. */
+table, th, td {
+  border: 1px solid;
+	boxsize:px;
+}
+table {
+  width: 100%;
+}
+td{
+	text-align:left;
+}
