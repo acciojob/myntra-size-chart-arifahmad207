@@ -1,8 +1,7 @@
 
 /* Your CSS Code here. */
-table, th, td {
+table, th, td , tr {
   border: 1px solid;
-	boxsize:px;
 }
 table {
   width: 100%;
